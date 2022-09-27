@@ -1,0 +1,19 @@
+# Cartelle
+
+/data/JSON
+/data/csv
+/data/books
+/data/books_after_1922
+/data/Corpora
+/data/Preprocessing
+/data/Lemmari
+/data
+
+# Files
+
+.ipynb_checkpoints
+.vscode
+data/Preprocessing/fasi_letterarie/avanguardie_primo_novecento_senteces_simplemma.txt
+multiprocessor.py
+Report/Discorso Presentazione Data Semantics.docx
+Report/Discorso Presentazione Data Semantics.pdf
