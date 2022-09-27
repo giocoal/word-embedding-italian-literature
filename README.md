@@ -6,7 +6,7 @@
 * Numpy
 * matplotlib
 * cade
-  * ![Info & Download](https://federicobianchi.io/cade/)
+  * [Info & Download](https://federicobianchi.io/cade/)
 * gensim
 * smart_open
 * spacy
