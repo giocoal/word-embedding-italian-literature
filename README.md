@@ -1,4 +1,4 @@
-# Data Semantics: diachronic analysis of tópoi in Italian literature
+# Distributional Semantics (Word2Vec): the evolution of tópoi in the Italian literary tradition
 
 ## Requirements
 * python 3.7+
