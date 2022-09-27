@@ -1,4 +1,4 @@
-# Distributional Semantics (Word2Vec and CADE): the evolution of tópoi in the Italian literary tradition
+# Distributional Semantics (word embedding with Word2Vec and CADE): the evolution of tópoi in the Italian literary tradition
 
 ## Requirements
 * python 3.7+
